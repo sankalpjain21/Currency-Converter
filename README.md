@@ -1,4 +1,8 @@
 # Currency-Converter
+
+
+<img width="713" height="674" alt="Currency" src="https://github.com/user-attachments/assets/d1bb01c0-add4-4aba-9c99-f00d0be80e4f" />
+
 Currency Converter Web Application
 
 This is a simple and responsive currency converter built using HTML, CSS, and JavaScript. It fetches real-time exchange rates using the Fawaz Ahmed Currency API and displays corresponding country flags using the Flags API.
